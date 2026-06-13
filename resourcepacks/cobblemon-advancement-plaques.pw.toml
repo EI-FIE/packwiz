@@ -1,0 +1,13 @@
+name = "Cobblemon Advancement Plaques"
+filename = "CobblemonAdvancementPlaques-[1.0.2].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ohjic8VB/versions/fqeBWILX/CobblemonAdvancementPlaques-%5B1.0.2%5D.zip"
+hash-format = "sha512"
+hash = "c44a6029b38a4cd4f7a3f520c9f1c7fb27aab8bb90eb4caa012025318ca4f30e8fb7359471a5f209d403f507e551b5dcbd11ada754c37215e8a9af4057734fac"
+
+[update]
+[update.modrinth]
+mod-id = "ohjic8VB"
+version = "fqeBWILX"

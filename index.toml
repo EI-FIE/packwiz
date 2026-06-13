@@ -6,6 +6,11 @@ hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "26085aa8480f728633c0b84a5eb1879f2911993905c425f3596fb2bef0ed94cc"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "823d504f7256c8223cd30f2617753a8e5b6dc67dd223897fd16273421ef57960"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
 metafile = true
 
 [[files]]
@@ -148,11 +158,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "d5489a6cf56a36e93103de0af29f371fd0a41fba36e4d780e33853927bad19f9"
 metafile = true
 
 [[files]]
@@ -358,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-advancement-plaques.pw.toml"
+hash = "82373fbe65b9724a9bf96dc14e755da9ece36688a81ea5744bd121a9d3ff756d"
 metafile = true
 
 [[files]]
