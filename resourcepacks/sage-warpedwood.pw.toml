@@ -1,0 +1,13 @@
+name = "Sage WarpedWood"
+filename = "Sage Warped Wood 1.0.1 - Dinolicious.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1g0RCeyS/versions/hYbvD3FZ/Sage%20Warped%20Wood%201.0.1%20-%20Dinolicious.zip"
+hash-format = "sha512"
+hash = "9a2c23a06fe40da23ec26b0161140daf693fceb07741e3ad824df389d3d5cc82c506922249fecced0f7ecbc15d08c5980e9a8f13cec7a25d96be3f03ddd39de5"
+
+[update]
+[update.modrinth]
+mod-id = "1g0RCeyS"
+version = "hYbvD3FZ"

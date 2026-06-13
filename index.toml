@@ -46,6 +46,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/cobblecuisine.pw.toml"
+hash = "dd9c84c3f22e37ee533990585112642b5c9a7ede61d29e5d13330a99b9a48b02"
+metafile = true
+
+[[files]]
 file = "mods/cobbledollars.pw.toml"
 hash = "25f8930a5814dfd54e697263a558293058e6c07603a44169b55e9fcea5ffd2e7"
 metafile = true
@@ -383,4 +388,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
 hash = "a958030f95997d32191ffd80d656314b86747c46adfb16a3a128389d6a3ff6c9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sage-warpedwood.pw.toml"
+hash = "3838247c3bc2e3947f360018b4791244f03b1d857c7d396f0806659e9beb9f3d"
 metafile = true
