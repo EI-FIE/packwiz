@@ -1,0 +1,13 @@
+name = "cobble"
+author = "ei-fie"
+version = "1.7.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "085c1c07ace99bd26ce0bb1a089364268e8582952c9ff625c7bbc46326859683"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"

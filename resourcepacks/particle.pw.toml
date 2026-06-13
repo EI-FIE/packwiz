@@ -1,0 +1,13 @@
+name = "Unique Particle Effects"
+filename = "§d§lParticle Effects §7v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/faMyvA8j/versions/CNj4r6gj/%C2%A7d%C2%A7lParticle%20Effects%20%C2%A77v1.0.0.zip"
+hash-format = "sha512"
+hash = "1cd3903c07f0baeb85134129ce6d34d72f3772aea38053804f5d8845efd7db9ce3af7b98a75a8ed62937b13b8c6138941ef5c6651b98310e0ce15bc61c98194a"
+
+[update]
+[update.modrinth]
+mod-id = "faMyvA8j"
+version = "CNj4r6gj"
