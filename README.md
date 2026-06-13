@@ -3,9 +3,10 @@
 ```
 packwiz modrinth add 모드이름
 ```
-
+이 레포지토리에 푸시 
 
 서버 실행스크립트 젤앞에 이거 추가해서 ㄱㄱ 
+
 
 ```
 git pull
