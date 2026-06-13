@@ -21,8 +21,18 @@ hash = "a7f7974f0526516e8c8e24fecf1544ce1e9017daf95540cf6b3a817c9eb352b4"
 metafile = true
 
 [[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "fdd247219e0dbfd147cfd230ab53c7ea2fbfeda33bcf89e8890ed965bf024246"
+metafile = true
+
+[[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "823d504f7256c8223cd30f2617753a8e5b6dc67dd223897fd16273421ef57960"
+metafile = true
+
+[[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "6ed307a73da7ca52b03e143a87780732dbbc70d9417b4bcc04937f561564a807"
 metafile = true
 
 [[files]]
