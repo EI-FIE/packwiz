@@ -2,7 +2,9 @@
 
 start script에서 똑같은 계층에서 
 
-git clone 
+```
+git clone https://github.com/EI-FIE/packwiz.git
+```
 
 
 ./start.sh
