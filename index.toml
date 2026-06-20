@@ -35,11 +35,6 @@ hash = "fdd247219e0dbfd147cfd230ab53c7ea2fbfeda33bcf89e8890ed965bf024246"
 metafile = true
 
 [[files]]
-file = "mods/better-nether-map.pw.toml"
-hash = "168009c9e42bde0e33bd898c188f747ad6acb7a90e7d32e4e9f6e7f46fb6ef5f"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
 metafile = true
