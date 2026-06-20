@@ -40,6 +40,15 @@ git pull
 packwiz refresh
 ```
 
+
+추가 ) 버전 지정해서 설치하는법 예시 
+```
+packwiz mr install --project-id=ccKDOlHs --version-id=JB1fLQnc
+```
+
+
+
+
 ---
 
 ### 클라이언트
