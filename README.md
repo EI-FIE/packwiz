@@ -25,6 +25,8 @@ java -Xmx4G -jar fabric-server-launch.jar nogui
 
 
 모드 추가
+packwiz 폴더에서 
+
 ```
 packwiz modrinth add 모드이름
 ```
