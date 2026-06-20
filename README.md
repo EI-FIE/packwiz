@@ -1,4 +1,27 @@
 ### 서버 
+
+start script에서 똑같은 계층에서 
+
+git clone 
+
+
+./start.sh
+```
+cd "$(dirname "$0")"
+
+cd packwiz
+git pull
+cd ..
+
+java -jar packwiz-installer-bootstrap.jar -g -s server file://$(pwd)/packwiz/pack.toml
+
+java -Xmx4G -jar fabric-server-launch.jar nogui
+```
+
+
+
+
+
 모드 추가
 ```
 packwiz modrinth add 모드이름
