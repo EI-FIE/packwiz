@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "9fd203b9a65ff63cbd78b00da4f36fe2fa1a337e552f3f6830df74fc6a250a71"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
@@ -17,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "fb5deb56a77c8a30f9fbc0c54ba5768bdb6d84c9b94d6de36edfb3076bff94b0"
+hash = "16f4aa64663e05ba013f9a38c69695e4086a6403575adb29b1379b417d28e519"
 metafile = true
 
 [[files]]
@@ -364,6 +368,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/cobblemon-advancement-plaques.pw.toml"
